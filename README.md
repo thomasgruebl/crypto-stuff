@@ -4,8 +4,10 @@
 
 **Dependencies**
 ---
-```
+
 <gmpxx.h>
+
+```
 $ sudo apt-get install libgmp-dev
 ```
 
