@@ -19,9 +19,3 @@ Download latest version from https://download.libsodium.org/libsodium/releases/
 make && make check
 sudo make install
 ```
-
-**Usage**
----
-
-frequency_analysis
-
